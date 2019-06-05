@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class ThoDatesComparison {
+public class TwoDatesComparison {
     public static void main(String[] args) {
         LocalDate now = LocalDate.now();
         LocalDate future = LocalDate.of(2025, 5, 2);
